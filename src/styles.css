@@ -1,0 +1,28 @@
+body {
+	background-color: orange;
+}
+#footer {
+	background-color: gold;
+	line-height: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
+.h1class {
+	padding:10px;
+	border:solid 5px black;
+	margin:20px;
+}
+.flex-conteiner {
+	display:flex;
+	flex-direction:row;
+}
+.flex-conteiner > .content {
+	padding:10px;
+}
+.flex-conteiner > .sidebar {
+	padding: 10px;
+}
+.img {
+	margin: 10px;
+	color: white;
+}
